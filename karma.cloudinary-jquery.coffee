@@ -17,6 +17,7 @@ module.exports = (config) ->
     files: [
       'bower_components/jquery/dist/jquery.js'
       'build/cloudinary-jquery.js'
+      'test/spec/spec-helper.js'
       'test/spec/cloudinary-spec.js'
       'test/spec/cloudinary-jquery-spec.js'
       'test/spec/transformation-spec.js'

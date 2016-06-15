@@ -22,6 +22,7 @@ module.exports = (config) ->
       'bower_components/blueimp-file-upload/js/jquery.iframe-transport.js'
       'bower_components/blueimp-file-upload/js/jquery.fileupload-image.js'
       'build/cloudinary-jquery-file-upload.js'
+      'test/spec/spec-helper.js'
       'test/spec/cloudinary-spec.js'
       'test/spec/cloudinary-jquery-spec.js'
       'test/spec/cloudinary-jquery-upload-spec.js'
